@@ -1,0 +1,10 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["invoice", "notification", "product", "store"],
+    "directoryPath": "../",
+    "jhipsterVersion": "8.1.0",
+    "jwtSecretKey": "M2ZjNWVjMGQyODU1ZWU5ZGU3MjJlZjQyZjA0ZTM5Yzg0ZDk1MGU4OGRlYmNkOGNiYzQ3MzQ3YzgwMDM2ODhjOWQzOGE0M2IwZDJkNDkyMTlmMTViOTMxZTA4ZGQxNjBiZjI4Nw==",
+    "monitoring": "prometheus",
+    "serviceDiscoveryType": "consul"
+  }
+}
